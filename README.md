@@ -2,7 +2,6 @@
 <br/>
 CPS3 Alternatives:
 <br/><br/>
-Alternatives:<br/><br/>
 Red Earth (Europe 961121, NO CD)<br/>
 Red Earth (Europe 961023, NO CD)<br/>
 Warzard (Japan 961121, NO CD)<br/>
